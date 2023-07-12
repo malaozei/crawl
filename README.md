@@ -1,10 +1,8 @@
 # crawl
 Three crawl from easy version to hard version.
-厦门大学python程序设计与分析2021级课程大作业，包含三个从简单到难的python爬虫文件，在第三个实验中使用了数据库来存储爬取到的网页，并使用爬取到的网页进行人物关联的分析。
-
+厦门大学python程序设计与分析2021级课程大作业，包含三个从简单到难的python爬虫文件，在第三个实验中使用了数据库来存储爬取到的网页，并使用爬取到的网页进行人物关联的分析，并且使用图象可视化技术进行结果的呈现。
 
 # 实验一爬取人物简介、生平、相关人物，存入文件中。
-
 
 # 实验二存储到数据库中：
 ![image](https://github.com/malaozei/crawl/assets/94264539/675375f7-d05a-44db-a8b5-b7276cf50e8c)
@@ -16,3 +14,5 @@ Three crawl from easy version to hard version.
 # 实验三分析人物关系：
 ![image](https://github.com/malaozei/crawl/assets/94264539/5c83a36b-44f3-4408-9158-e9d6dfb69506)
 ![image](https://github.com/malaozei/crawl/assets/94264539/b1f8589b-f89b-4edb-a40e-eac4d2205743)
+使用方法：
+使用python实现，数据库使用datagrep进行管理，详细的结构见三个实验报告，其中对整体的流程和详细的实现过程进行了说明。
